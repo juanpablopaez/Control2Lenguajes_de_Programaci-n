@@ -1,0 +1,19 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Build / test output
+bin/
+pkg/
+
+# Editor directories and files
+.vscode/
+*.swp
+
+# OS files
+Thumbs.db
+ehthumbs.db
+.DS_Store
